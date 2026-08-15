@@ -1,0 +1,9 @@
+{
+	"name": "test_bao_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "user10@demo10.tooly.fr",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

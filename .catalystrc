@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "17656000000062142",
+      "name": "test-bao",
+      "domain": {
+        "id": "30042886701",
+        "name": "test-bao-20115848591.development"
+      },
+      "timezone": "Europe/Brussels",
+      "env": [
+        {
+          "idx": 1,
+          "id": "20115848591",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
